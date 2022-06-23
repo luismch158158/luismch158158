@@ -4,11 +4,12 @@ Hi 👋 My name is Luis Manrique
 Frontend Developer and Full-Stack Developer
 -------------------------------------------
 
-I became passionate about the code 4 years after finishing my career as a Civil Engineer, and I discover day by day how wonderful the world of Software is and the power to create digital products that impact millions of people. I have knowledge in HTML, CSS, Javascript, C, Bash ,SQL and Python.
+I am a Full Stack Web Developer with a degree in Civil Engineering. I had fun learning for the last 9 months at Holberton School in an accelerated intensive program of full time based on software engineering and peer learning.
+I continue to discover day by day how wonderful the world of Software is and I am convinced of the power of creating digital products that positively impact millions of people, and that is why I want to contribute my knowledge and professional skills to improve their quality of life through a great value proposition. I have knowledge in HTML, CSS, C, Bash and Python.
 
 * 🌍  I'm based in Lima, Perú.
 * ✉️  You can contact me at [luismanrique158158@gmail.com](mailto:luismanrique158158@gmail.com)
-* 🧠  I'm learning React.js and Pine script
+* 🧠  I'm learning React.js, SQL and Javascript
 * 🤝  I'm open to collaborating on Interesting projects with high impact.
 * ⚡  I'am a marinera dancer and I love it.
 
