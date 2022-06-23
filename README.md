@@ -5,6 +5,7 @@ Frontend Developer and Full-Stack Developer
 -------------------------------------------
 
 I am a Full Stack Web Developer with a degree in Civil Engineering. I had fun learning for the last 9 months at Holberton School in an accelerated intensive program of full time based on software engineering and peer learning.
+<br>
 I continue to discover day by day how wonderful the world of Software is and I am convinced of the power of creating digital products that positively impact millions of people, and that is why I want to contribute my knowledge and professional skills to improve their quality of life through a great value proposition. I have knowledge in HTML, CSS, C, Bash and Python.
 
 * 🌍  I'm based in Lima, Perú.
